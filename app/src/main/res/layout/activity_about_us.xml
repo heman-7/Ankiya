@@ -1,0 +1,159 @@
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#C5CAE9"
+    tools:context="com.example.mak_here.holydayz.AboutUs"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+<LinearLayout
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+    android:orientation="vertical"
+>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Digital India : Challenges And Opportunities"
+            android:id="@+id/textView3"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:textSize="22sp"
+            android:background="#4464AD"
+            android:gravity="center_horizontal"
+            android:textColor="#ffffff"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView4"
+            android:gravity="center_horizontal"
+            android:textColor="#000000"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="An Inter-Disciplinary DU Innovation Project, jointly undertaken by Department of Computer Science &amp; Department of Commerce of the Acharya Narendra Dev College"
+            android:textSize="16sp"
+            />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView5"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp"
+        android:gravity="center_horizontal"
+        android:textColor="#ffffff"
+        android:textSize="22sp"
+        android:typeface="monospace"
+        android:text="Mentor"
+        android:background="#4464AD"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/textView6"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:textSize="16sp"
+        android:textColor="#000000"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:paddingRight="5dp"
+        android:paddingLeft="5dp"
+        android:text="Prof. Monica Singhania"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView7"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:gravity="center_horizontal"
+        android:textColor="#ffffff"
+        android:textSize="22sp"
+        android:typeface="monospace"
+        android:background="#4464AD"
+        android:text="Project Investigators"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/textView8"
+        android:textSize="16sp"
+        android:textColor="#000000"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:text="@string/project_inv"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView9"
+            android:background="#4464AD"
+            android:gravity="center_horizontal"
+            android:textColor="#ffffff"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:text="Developers"
+            android:textSize="22sp"
+            android:typeface="monospace" />
+
+    <!--
+    <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitCenter"
+            android:layout_weight="1"
+        android:id="@+id/imageView"
+            android:src="@drawable/dev1"></ImageView>
+            -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hemant Makhija\n &amp;"
+        android:textSize="16sp"
+        android:gravity="center_horizontal"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:textColor="#000000"
+        android:id="@+id/textView10" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mayank Gangwar\nB.Sc.(H) Computer Science-lll Year"
+        android:textSize="16sp"
+        android:paddingBottom="5dp"
+        android:id="@+id/textView11"
+        android:gravity="center_horizontal"
+        android:textColor="#000000" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView12"
+        android:gravity="center_horizontal"
+        android:textColor="#ffffff"
+        android:text="Special Mention"
+        android:textSize="22sp"
+        android:typeface="monospace"
+        android:background="#4464AD"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:gravity="center_horizontal"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/textView13"
+        android:textColor="#000000"
+        android:text="@string/posters"
+        android:textStyle="normal"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"/>
+</LinearLayout>
+</ScrollView>
+

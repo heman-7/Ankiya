@@ -1,0 +1,167 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.mak_here.holydayz.eHospital.EHosp_Tab2">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Steps to book an appointment for patient with Aadhaar card number"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:id="@+id/textView"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:textSize="17dp"
+            android:background="#4464AD"
+            android:gravity="center_horizontal"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:id="@+id/textView2"
+            android:textStyle="normal"
+            android:textColor="#424242"
+            android:text="\n1. Visit URL or click here.\n"
+            android:textSize="17dp"
+            />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:layout_height="25dp"
+            android:id="@+id/button"
+            android:textStyle="bold"
+            android:textSize="14dp"
+            android:typeface="serif"
+            android:textAllCaps="false"
+            android:hapticFeedbackEnabled="true"
+            android:background="#BBDEFB"
+            android:clickable="true"
+            android:text="http://ors.gov.in/copp/appointment.jsp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:id="@+id/textView3"
+            android:textStyle="normal"
+            android:textColor="#424242"
+            android:text="@string/ehosp_tab2.1"
+            android:textSize="17dp"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Steps to book an appointment for patient without Aadhaar card number"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:id="@+id/textView4"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:textSize="17dp"
+            android:background="#4464AD"
+            android:gravity="center_horizontal"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:id="@+id/textView5"
+            android:textStyle="normal"
+            android:textColor="#424242"
+            android:text="\n1. Visit URL or click here.\n"
+            android:textSize="17dp"
+            />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:layout_height="25dp"
+            android:id="@+id/button2"
+            android:textStyle="bold"
+            android:textSize="14dp"
+            android:typeface="serif"
+            android:textAllCaps="false"
+            android:hapticFeedbackEnabled="true"
+            android:background="#BBDEFB"
+            android:clickable="true"
+            android:text="http://ors.gov.in/copp/mobile.jsp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:id="@+id/textView6"
+            android:textStyle="normal"
+            android:textColor="#424242"
+            android:text="@string/ehosp_tab2.2"
+            android:textSize="17dp"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Easy steps to book an appointment for patient with UHID number:"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:id="@+id/textView7"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:textSize="17dp"
+            android:background="#4464AD"
+            android:gravity="center_horizontal"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:id="@+id/textView8"
+            android:textStyle="normal"
+            android:textColor="#424242"
+            android:text="\n1. Visit URL or click here.\n"
+            android:textSize="17dp"
+            />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:layout_height="25dp"
+            android:id="@+id/button3"
+            android:textStyle="bold"
+            android:textSize="14dp"
+            android:typeface="serif"
+            android:textAllCaps="false"
+            android:hapticFeedbackEnabled="true"
+            android:background="#BBDEFB"
+            android:clickable="true"
+            android:text="http://14.139.245.36/esp/login.jsp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:id="@+id/textView9"
+            android:textStyle="normal"
+            android:textColor="#424242"
+            android:text="@string/ehosp_tab2.3"
+            android:textSize="17dp"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

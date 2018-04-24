@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    card_view:cardCornerRadius="10dp"
+    android:elevation="5dp"
+    android:layout_margin="5dp"
+    tools:context=".Downloads"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/down_layout"
+        >
+        <!--
+        <ImageView
+            android:id="@+id/noimg"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:clickable="true"
+            android:scaleType="fitXY" />
+            -->
+        <TextView
+            android:id="@+id/txv_row"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:textColor="#080708"
+            android:textSize="14dp"
+            android:typeface="serif"
+            android:gravity="center_horizontal"
+            android:textStyle="bold"
+            />
+        <TextView
+            android:id="@+id/txv_row2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:gravity="center_horizontal"
+            android:textColor="#4b40f2"
+            android:textSize="18dp"
+            android:typeface="serif"
+            android:layout_below="@id/txv_row"
+            />
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>
+
+
+
+

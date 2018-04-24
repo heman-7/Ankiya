@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_about"
+            android:title="About Us" />
+        <item
+            android:id="@+id/nav_dip"
+            android:icon="@drawable/ic_digind"
+            android:title="Digital India Programme" />
+        <item
+            android:id="@+id/nav_web"
+            android:icon="@drawable/ic_http_black_24dp"
+            android:title="Our Website" />
+
+        <item
+            android:id="@+id/nav_quiz"
+            android:icon="@drawable/ic_quiz"
+            android:title="Rate Us Via Quiz" />
+        <item
+            android:id="@+id/nav_gmail"
+            android:icon="@drawable/ic_gmail"
+            android:title="Mail Queries" />
+
+    </group>
+
+    <item android:title="Follow Us">
+        <menu>
+            <item
+                android:id="@+id/nav_fb"
+                android:icon="@drawable/ic_fb"
+                android:title="Facebook" />
+            <item
+                android:id="@+id/nav_insta"
+                android:icon="@drawable/ic_insta"
+                android:title="Instagram" />
+            <item
+                android:id="@+id/nav_twitter"
+                android:icon="@drawable/ic_tweet"
+                android:title="Twitter" />
+            <item
+                android:id="@+id/nav_blog"
+                android:icon="@drawable/ic_blog"
+                android:title="Blog" />
+        </menu>
+    </item>
+
+</menu>

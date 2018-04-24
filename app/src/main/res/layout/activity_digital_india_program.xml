@@ -1,0 +1,43 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.mak_here.holydayz.eGreetings.EGreet_Tab3">
+
+<LinearLayout
+android:id="@+id/activity_digital_india_program"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#C5CAE9"
+    tools:context="com.example.mak_here.holydayz.DigitalIndiaProgram"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Digital India Programme"
+        android:id="@+id/textView"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:textSize="22sp"
+        android:background="#4464AD"
+        android:gravity="center_horizontal"
+        android:textColor="#ffffff"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:gravity="center_horizontal"
+        android:textColor="#000000"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:text="@string/di_int"
+        android:textSize="16sp" />
+</LinearLayout>
+</ScrollView>

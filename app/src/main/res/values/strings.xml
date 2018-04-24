@@ -1,0 +1,146 @@
+<resources>
+    <string name="app_name">Ankiya</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="di_int">Digital India Program is a revolutionary step taken by the Government of India on July 2, 2015. It is an Umbrella Programme which includes various on-line services under a single initiative. It is focusing on providing digital infrastructure in every corner of the country so that citizens can get service on-demand. It is improving the way services are being delivered to common people and businesses are conducted. Citizens no longer have to wait in long queues to get their work done. Meritorious and needy students are getting financial support for their studies. Hence, it is proving to be a boon for the citizens by bringing digital transformation in the country.\n\n\n\n\n\n\n\n\n\n
+    </string>
+    <string name="bas_tab1">\nIndian government has implemented Biometric Attendance System (BAS) in the central government offices located in Delhi in 2015. It enables an employee to register attendance by presenting his/her biometric (finger print/iris) which are authenticated on-line by doing one to one match with the biometrics stored in the UIDAI database against the employee’s Aadhaar number.\n\nThis system service is leading India towards better future by ensuring full transparency and increased work efficiency of the government employees.\n
+    </string>
+    <string name="bas_tab2.2">\n1. Visit URL or click here.\n
+  </string>
+    <string name="bas_tab2.3">\n2. Register to get an Attendance ID.\n\n3. Enter the 6-digit Attendance ID in biometric machine.\n\n4. A Red light will glow on Fingerprint Scanner.\n\n5. Put the finger on the Fingerprint Scanner.\n\n6. Once “Authenticating, Please Wait” shows on your screen. Remove  finger  from the scanner.\n\n7. A pop-up screen will show your Photo and Attendance Type as “OPENING” for marking attendance for first time of the day.\n\n8. In case Attendance Type is “CLOSING” then it is counted as Out Time.\n\n9. If a CROSS is shown instead of your photo, it means some ERROR has occurred.\n
+    </string>
+    <string name="bas_tab3">\nWorkshops are being organized regularly on Aadhaar enabled Biometric attendance system to help employees understand the management of attendance portal and devices available in their organization. These workshops include a practical experience of all relevant information.\n
+    </string>
+    <string name="bas_tab3.2">\n\u2022	View BAS Reports.\n\n\u2022	New Functionality of Full Day &amp; Half Day Tour.\n\n\u2022	New Functionality for Demographics of employees.\n\nFor more information, click here:
+    </string>
+
+    <string name="di_tab1">\nGovernment of India has digitalized many services, one of the key initiative launched in February, 2015, is Digital Locker which provides a dedicated personal electronic space for storing documents (maximum 1 GB) to resident Indian citizens. This is linked to their Aadhaar number and the space can be utilized for storing personal documents (University Certificates, PAN cards, Voter ID cards) and the URI\'s of the e-documents issued by various issuer departments.\n\nIt minimizes the use of physical documents and provides authenticity and security to the e-documents.\n
+    </string>
+    <string name="di_tab2">\n1. Visit URL or click here. \n
+    </string>
+    <string name="di_tab2.1">\n2. Click on sign up button.\n\n3. Fill up details:\n
+    </string>
+    <string name="di_tab2.2">a. Enter your mobile number.\n\nb. Enter OTP generated on mobile (valid for 30 mins).\n\nc. Choose a user name and password.\n\nd. Click on sign up button. This creates the DigiLocker account.\n\ne. You may link the DigiLocker account with Aadhaar card. This is optional.\n
+    </string>
+    <string name="di_tab3">\n\u2022	Department of Revenue, Registration and land Reforms-Jharkhand becomes first DigiLocker issuer from Eastern India.\n\n•	Rahuri Municipal Council in Ahmednagar District Maharashtra becomes first municipality to integrate with DigiLocker.\n\n•	DigiLocker Hindi version Android APP rolled out.\n\n•	E-District Delhi becomes the country\'s fastest implementer of DigiLocker Automated Issuer Module.\n\n•	More than 2 crore Uttar Pradesh citizens can now access their digitized certificates in DigiLocker.
+        \n\n•	DigiLocker ecosystem get closer to fruition with notification of Information Technology (Preservation and Retention of information by intermediaries providing digital locker facilities.\n\n•	Aadhaar card is not any more mandatory for opening an A/C on DigiLocker.\n\nFor more information, click here:
+    </string>
+
+    <string name="esign_tab1">\ne-Sign (Electronic Signature) authenticates digital document and ensures that it\'s contents can\'t be changed further. It has same legal value as physical signature on paper. Anyone can acquire e-sign by using Aadhaar card and a registered mobile number. \n\nA digital signature is different from an e-sign, an individual has to apply for Digital signature. The certifying authority then issues certificate after validating the credentials submitted in the application form. This Digital Signature certificate (stored in USB) is valid for 2-3 years.\n\n
+    </string>
+    <string name="esign_tab2">\n(Currently only DigiLocker allows to acquire e-Sign on a document)\n\n<b>1.</b> Visit URL or click here,\n     </string>
+    <string name="esign_tab2.2">\nand Login to DigiLocker website via Aadhaar Card number.\n\n<b>2.</b> Upload the document to be e-Signed.\n\n<b>3.</b> Click on the e-sign icon to generate an online request for signature.\n\n<b>4.</b> Enter Aadhaar Number again.\n\n<b>5.</b> The request is then verified by the Aadhaar e-KYC.\n\n<b>6.</b> An OTP (One Time Password) is sent to the user’s registered mobile no.\n\n<b>7.</b> After validating through the OTP, an online e-Sign is issued immediately. \n\n
+
+    </string>
+    <string name="esign_tab3.1">\n\u2022 Adobe has extended its support for verifying eSign in the documents.\nFor more information, click here:
+    </string>
+    <string name="esign_tab3.2">\n\n\u2022 Peer to peer lending website launched e-Sign facility in partnership with eMudhra on in May 2016. This initiative has simplified the lending process for customers.\nFor more information, click here:
+    </string>
+    <string name="esign_tab3.3">\n\n\u2022 LegalDesk.com, a DIY platform for legal documents, has launched an Aadhaar-based e-signing product for verifications in legal documents.\nFor more information, click here:
+    </string>
+
+    <string name="ebasta_tab1">\nAs part of the Digital India initiative, Indian Government launched e-Basta service to provide e-books and other study material to school students all over the country. The e-Basta project provides a framework to make school books accessible in digital form to the students. A portal has been provided to bring various publishers and schools together on a single platform. \n\nIn addition, an app is provided to facilitate organization and easy management of digital resources on mobile phones.\n
+    </string>
+     <string name="ebasta_tab2.1">\n\u2022 Access e-Basta from any android based tablet or mobile phone via e-Basta App or by visiting the e-Basta portal directly by clicking here.\n
+    </string>
+    <string name="ebasta_tab2.2">\n\u2022 Create an account via register link and login.\n\u2022 Create e-Basta
+    </string>
+    <string name="ebasta_tab2.23">o	Click on Search e-Content menu to find e-Books based on class &amp; subject and select it.\no	Add it into your cart and create e-Basta.\no	Give a unique name to the e-Basta &amp; share with students.\n
+    </string>
+    <string name="ebasta_tab2.3">\n\u2022 Search for required e-Basta or e-Content and select it.\n\u2022 Buy (if not free) the selected e-Basta or e-Content.\n\u2022 Click on the provided link and download the e-Basta.\n
+
+    </string>
+     <string name="ebasta_tab3">\nCurrently e-Basta has 329 NCERT textbooks (in e-book format) for classes 1 to 12 in Hindi, English, Urdu, and Sanskrit.\n\nFor more information, click here:
+    </string>
+
+     <string name="escho_tab1">\nGovernment launched e-Scholarship service under Digital India Program in July 2015. The scholarship provides financial help to the poor and meritorious students to enable them to pursue professional and technical courses. It is specially devised to help students belonging to notified minority communities like Muslim/Christian/Sikh/Buddhist/Jain/Parsi studying in India.\n\nOne of the key features of the scheme is that 30% of scholarship is earmarked for the girl student. The service portal provides all scheme related information including criteria and eligibility. All the documents are submitted and verified on-line.\n
+    </string>
+     <string name="escho_tab2">\n1. Visit URL or click here.\n
+    </string>
+    <string name="escho_tab2.2">\n2. Click on the register icon, and fill the details.\n\n3. Shortly a temporary id will be created. Click to proceed.\n\n4. Fill the personal and academic details, eligible schemes will be shown.\n\n5. Select a scheme, attach the desired documents and fill in the bank details.\n\n6. Fill the contact details after completion of which you will get a permanent Id.\n\n7. The Id can be used to track the status of your application.\n
+    </string>
+     <string name="escho_tab3.1">\n\u2022 Aadhaar carries out enrollment drive for scholarship students.\n For more information click here:
+    </string>
+    <string name="escho_tab3.2">\n\n\u2022 Aadhaar must for getting UGC fellowship or scholarship.\n For more information click here:
+    </string>
+    <string name="escho_tab3.3">\n\n\u2022 Labour ministry ties up with top job portals for national career service.\n For more information click here:
+    </string>
+
+    <string name="mygov_tab1">\nMyGov, the brainchild of Modi government, was launched in July, 2014. It is a citizen engagement platform managed by Ministry of Electronics and Information Technology and National Informatics Centre. It offers various services to citizens and invites suggestions to improve and strengthen it.\n\nIt also  allows people to participate in multiple theme-based discussions, share their ideas and thoughts and contribute towards good governance.\n
+    </string>
+     <string name="mygov_tab2">\n1. Visit URL or click here.\n
+     </string>
+    <string name="mygov_tab2.2">\n2. Click at sign in.\n\n3. Enter your full name, email address on the create a MyGov account page and select country.\n\n4. Enter your contact number.\n\n5. Select your gender and enter your date of birth.\n\n6. Then click on create new account.\n
+
+    </string>
+     <string name="mygov_tab3.1">\n\u2022 Government is urging citizens to work as experts in various areas on contract basis.\nFor more information, click here:
+    </string>
+    <string name="mygov_tab3.2">\n\n\u2022 Digital Governance: The MyGov Initiative.\nFor more information, click here:
+    </string>
+    <string name="mygov_tab3.3">\n\n\u2022The Draft Indian National University Bill, 2015, has gone online on MyGov portal for six weeks for public consultations.\nFor more information, click here:
+    </string>
+    <string name="mygov_tab3.4">\n\n\u2022Smart Cities ping the most on MyGov.\nFor more information, click here:
+    </string>
+
+     <string name="jp_tab1">\nPension provides income and sustainability to a retired employee. Indian government launched digital life certificate called Jeevan Pramaan Certificate for pensioners under Digital India program in November 2014. It is issued to individual pensioners using their biometric credentials. \n\nPensioners then provide the certificate to an authorized pension disbursing agency like bank, following which their pension is credited to their account.\n
+     </string>
+    <string name="jp_tab2">\n1. Visit nearest Jeevan Pramaan centre and register online for a nominal fees. Locate it using\n
+  </string>
+    <string name="jp_tab2.2">\nor via mobile by sending an <b>SMS JPL &lt;Pincode&gt; to (7738299899).</b> \n\n2. Install Jeevan Pramaan software available on\n
+    </string>
+    <string name="jp_tab2.3">\non either windows based desktop or android based smart-phone and use a biometric device and details like Aadhaar No., PPO No., Bank A/c No. and Branch details to register.\n\n3. After a valid registration, a unique Jeevan Pramaan ID is generated and sent to the mobile number. Bank is then informed about it. This process is repeated each year in November.\n
+    </string>
+    <string name="jp_tab3.00"><b>Jeevan Pramaan 2.0</b></string>
+    <string name="jp_tab3.0">\n16.79 Lakh pensioners have registered from all over the country for digital life certificate by September 2016.\nFor more information, click here:
+    </string>
+    <string name="jp_tab3">\nGovernment introduced this scheme in May 2015, for financially weak people working in informal sector. \nFor more information, click here:
+    </string>
+    <string name="jp_tab3.1">\nGovernment is launching Jeevan Pramaan 2.0 in which senior citizens can prove their existence by just sending an email or a post of their latest Aadhaar authentication statement to the government office to process their pension.\nFor more information, click here:
+    </string>
+
+
+    <string name="ehosp_tab1">\nModi Government developed e-hospital portal as part of Digital India program and extended it to the country\u0027s health-care system. Many premier hospitals of India including All India Institute of Medical Sciences (AIIMS), Ram Manohar Lohia (RML) Hospital and National Institute of Mental Health, have been covered under it.\n\n It allows citizens to book appointments for OPD check-ups, get lab reports on-line, check availability of various blood types, and make on-line payment. This has increased transparency of public health-care system and utilization of services, and has reduced waiting time to a large extent.\n
+    </string>
+     <string name="ehosp_tab2.1">\n2. Enter Aadhaar card number and confirm your identify.\n\n3. Select state, hospital and department.\n\n4. Select date, pay fee and confirm appointment.\n\n5. Get SMS of confirmation and take a print of appointment slip.\n
+    </string>
+     <string name="ehosp_tab2.2">\n2. Enter mobile number and confirm your identify.\n\n3. Enter name, father name, DOB, address etc. \n\n4. Select state, hospital and department. \n\n5. Select date, pay fee and confirm appointment. \n\n6. Get SMS of confirmation and take a print of appointment slip.\n
+    </string>
+     <string name="ehosp_tab2.3">\n2. Enter UHID and other details.\n\n3. Collect OPD card from hospital and pay fee at hospital counter.\n
+    </string>
+
+
+
+    <string name="ehosp_tab3.1">\n\u2022 J&amp;K Government launches the first phase of a high-tech computerised e-Hospital project in Jammu.\nFor more information, click here:
+    </string>
+    <string name="ehosp_tab3.2">\n\n\u2022 NDMC approaches NIC to configure e-hospital portal in its health care unit.\nFor more information, click here:
+    </string>
+    <string name="ehosp_tab3.3">\n\n\u2022 E-registration facility will be soon available at Sawai Man Singh hospital.\nFor more information, click here:
+    </string>
+
+    <string name="egreet_tab1">\ne-Greetings stands for electronic greetings. Its aim is to promote on-line sharing of greetings. It provides an eco-friendly way of sharing greetings on national as well as regional festivals and other special occasions. All citizens who want to share wishes with their colleagues, friends and relatives can easily use this service. \n\ne-Greetings portal has a huge collection of greeting cards, so a user can send greetings as per his choice. The portal allows sender to write customized messages and upload audio, video in the card.\n
+    </string>
+    <string name="egreet_tab2">\n1. Visit URL or click here.\n
+    </string>
+    <string name="egreet_tab2.2">\n2. Click on sign in button and sign in using either  Google/Facebook/MyGov/Twitter account.\n\n3. Search the event and select the type of card.\n\n4. Select the quotes and messages or manually type the messages.\n\n5. Click on submit.\n\n6. Enter the details of sender and recipients.\n\n7. Click on send.\n
+    </string>
+    <string name="egreet_tab3.1">\n\u2022 Celebrate Gandhi Jayanti by designing e-Greetings and participating in the contest held by MyGov India.\nFor more information, click here:
+    </string>
+    <string name="egreet_tab3.2">\n\n\u2022 Celebrate the harvest festival with joy and enthusiasm. e-Greetings India wishes you Happy Onam.\nFor more information, click here:
+    </string>
+
+    <string name="posters">Poster contribution by \nAmar Prakash Chaubey\n &amp;\n Rajat Verma\nB.Sc.(H) Computer Science-lll Year\n
+    </string>
+    <string name="project_inv">Dr. Sunita Narang\nDr. Surinder Kaur\nDr. Shalu Mahajan
+    </string>
+    <string name="splash_text"><b>Digital India: \n Challenges and Opportunities</b>
+    </string>
+</resources>
+

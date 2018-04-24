@@ -1,0 +1,80 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.mak_here.holydayz.BAS.BAS_Tab3">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:id="@id/textView"
+            android:textColor="#ffffff"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:background="#4464AD"
+            android:text="New Events"
+            android:gravity="center_horizontal"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:id="@id/textView2"
+            android:textColor="#424242"
+            android:textSize="17dp"
+            android:text="@string/bas_tab3"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:id="@id/textView3"
+            android:textColor="#ffffff"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:background="#4464AD"
+            android:text="New Announcements"
+            android:gravity="center_horizontal"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:id="@id/textView4"
+            android:textColor="#424242"
+            android:textSize="17dp"
+            android:text="@string/bas_tab3.2"
+            android:layout_height="wrap_content" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button"
+            android:textStyle="bold"
+            android:textSize="12dp"
+            android:typeface="serif"
+            android:textAllCaps="false"
+            android:hapticFeedbackEnabled=                                                    "true"
+            android:background="#BBDEFB"
+            android:clickable="true"
+            android:text="http://attendance.gov.in/public_announcement/"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:id="@id/textView"
+            android:textColor="#424242"
+            android:textSize="17dp"
+            android:text="\n"
+            android:layout_height="wrap_content"
+            />
+
+    </LinearLayout>
+
+</ScrollView>

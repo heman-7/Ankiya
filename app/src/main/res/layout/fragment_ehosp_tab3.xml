@@ -1,0 +1,94 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.mak_here.holydayz.eHospital.EHosp_Tab3">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:id="@id/textView"
+            android:textColor="#424242"
+            android:textSize="17dp"
+            android:textStyle="normal"
+            android:text="@string/ehosp_tab3.1"
+            android:layout_height="wrap_content" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button"
+            android:textStyle="bold"
+            android:textSize="12dp"
+            android:typeface="serif"
+            android:textAllCaps="false"
+            android:hapticFeedbackEnabled="true"
+            android:background="#BBDEFB"
+            android:clickable="true"
+            android:text="http://zeenews.india.com/news/jammu-and-kashmir/jandk-govt-launches-e-hospital-project-in-jammu_863869.html"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:id="@id/textView2"
+            android:textColor="#424242"
+            android:textSize="17dp"
+            android:textStyle="normal"
+            android:text="@string/escho_tab3.2"
+            android:layout_height="wrap_content" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button2"
+            android:textStyle="bold"
+            android:textSize="12dp"
+            android:typeface="serif"
+            android:textAllCaps="false"
+            android:hapticFeedbackEnabled="true"
+            android:background="#BBDEFB"
+            android:clickable="true"
+            android:text="http://zeenews.india.com/tags/e-hospital-portal.html"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:id="@id/textView3"
+            android:textColor="#424242"
+            android:textSize="17dp"
+            android:textStyle="normal"
+            android:text="@string/escho_tab3.3"
+            android:layout_height="wrap_content" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button3"
+            android:textStyle="bold"
+            android:textSize="12dp"
+            android:typeface="serif"
+            android:textAllCaps="false"
+            android:hapticFeedbackEnabled="true"
+            android:background="#BBDEFB"
+            android:clickable="true"
+            android:text="http://timesofindia.indiatimes.com/city/jaipur/Soon-e-registration-facility-at-SMS-hospital/articleshow/52443441.cms"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:id="@id/textView4"
+            android:textColor="#424242"
+            android:textSize="17dp"
+            android:textStyle="normal"
+            android:text="\n"
+            android:layout_height="wrap_content"
+            />
+
+    </LinearLayout>
+
+</ScrollView>

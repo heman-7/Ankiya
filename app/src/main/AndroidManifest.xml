@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mak_here.holydayz">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Splash"
+            android:theme="@style/AppTheme.NoActionBar.Fullscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar.Fullscreen">
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".JeevanPramaan.SlidingTabs"
+            android:label="Jeevan Pramaan"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".AboutUs"
+            android:label="About Us"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Quiz"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".eSign.ESign_SlidingTabs"
+            android:label="e-Sign"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".BAS.BAS_SlidingTabs"
+            android:label="BAS"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".DigiLocker.DL_SlidingTabs"
+            android:label="DigiLocker"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".eBasta.EBasta_SlidingTab"
+            android:label="e-Basta"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".eScholarship.EScho_SlidingTabs"
+            android:label="e-Scholarship"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".myGov.myGov_SlidingTabs"
+            android:label="MyGov"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".eHospital.EHosp_SlidingTabs"
+            android:label="e-Hospital"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".eGreetings.EGreet_SlidingTabs"
+            android:label="e-Greetings"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".DigitalIndiaProgram"
+            android:label=""
+            android:parentActivityName=".MainActivity" />
+    </application>
+
+</manifest>
